@@ -3,7 +3,7 @@
 
 ** Aim:  To give a brief understanding of common libraries, across the labs.
 
-- Total Number Of Labs  : 20
+- Total Number of Labs  : 20
 - Total Number of Experiments :  192
 - Total Number of Labs, need not to be converted : 7
 - Total Number of Experiments, need not to be converted :  8

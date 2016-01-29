@@ -1,4 +1,4 @@
-* Common Libraries Idetified labwise and across the labs
+* Common Libraries Identified labwise and across the labs
 (First Set of labs)
 
 ** Aim:  To give a brief understanding of common libraries, across the labs.

@@ -1,0 +1,245 @@
+* Common Libraries Idetified labwise and across the labs
+(First Set of labs)
+
+** Aim:  To give a brief understanding of common libraries, across the labs.
+
+- Total Number Of Labs  : 20
+- Total Number of Experiments :  192
+- Total Number of Labs, need not to be converted : 7
+- Total Number of Experiments, need not to be converted :  8
+- Total Number of labs to be converted  to javascript :   10
+
+** How the common Libraries across the labs are Identified ? : 
+
+Identified the common libraries, across the labs, based on two scenarios, 
+i.e; Common things related to UI and Common things related to animations of the Experiment Simulations.
+
+** Common things identified, which are related to UI and Animations of the Experiment Simulations(lab wise) :
+
+*** For VLSI Lab : 
+- Total No of experiments - 10
+- No of experiments to be converted - 9 (Experiments are in java)
+- No of experiments, need not to be converted - 1 ( Since the experiment has no client side dependency) 
+- Common things related to UI : UI is same for all the experiments
+  simulation in this lab.  Simulation UI has -> A tool bar listed with
+  all the images on one side, a graph on one side, circuit board,
+  buttons, Drop down list to select an element.  It has logic gates,
+  wires, and circuit elements, which are basically hidden.
+
+- Common things related to Animations -> Animations are same for all the experiments simulations in this lab.Below are the animations:
+  1. After selecting an element, when we click on circuit board, that element should be printed on tht board.    
+  2. To delete an element on the circuit board, click on element, then pop up box should appear, with yes/no.
+     yes means element should be deleted and no means element will not be deleted.            
+  3. If we have selected the same element again, pop up box should appear, saying that already image has been used.                                                  
+  4. To connect an elements with a wire, first we need to select a wire by clicking on it, then click on elements end
+     point then a wire should be shown and the wire should be in mouse diection and finally click another elements end point to connect.                                                                                                                                                                            
+  5. If we click on button, with incomplete connections a pop-up box should appear, saying that circuit is incomplete.
+
+*** For Digital Logic Design Lab :
+-  Total No of experiments - 10
+-  No of experiments to be converted - 10 (Experiments are in java)
+-  Common things related to UI : UI is same for all the experiments simulation in this lab.
+   Simulation UI has-> Circuit board, buttons, selection boxes.
+-  Common things related to Animations ->  Animations are same for all the experiments simulations in this lab.Below are the animations:
+   1. On clicking the button, image should be loaded, on the circuit board.
+   2. On clicking the button, we need to load a file from local machine.                   
+   3. On clicking button, Image which is loaded on the board should be erased.
+   4. On clicking the button, file should be imported.                    
+   5. On clicking the button, file should be saved.
+   6. After selecting the image from drop down list, when we click on
+      the board with mouse randomly, selected image should be
+      displayed on the image.
+   7. After clicking the button, if we click on particular element, that element should be deleted.
+
+*** For Physical Chemistry Lab :
+- Total No of Experiments - 8 (6 in flash & 2 in java3D)
+- No of experiments to be converted - 8 
+- Common things related to UI : Bottles, half filled with different
+  colors, empty bottle, buttons, spectrometer image, one blank window
+  to display graph,Calculator, Desiccator/IR-Cell image, Mass
+  Spectrometer Image
+- Common things related to Animations ->
+  1. On clicking the button, it should disappear.
+  2. On clicking the bottle, a spoon should go inside and pick the solution from the bottle and pour it in a vessel.
+  3. On clicking the vessel, spoon which is inside the vessel should move from right to left continuously for 10 secs.
+  4. On Clicking the bottle a syringe should be shown like extracting solution form the bottle(then syringe inside color
+     should be changed to some  color)and the syringe should move to vessel and pour the solution into the vessel
+     (now color inside the syringe should be none).
+  5. On clicking the vessel First :a x element(plate) should appear, spoon should take the solution from the bottle and spoon
+     should move left to the vessel and pour the solution on to the plate.
+  6. On clicking the plate, bottles should dissappear and three images are placed. on clicking on one image , three images
+     should coincide one from top and one from right.
+  7. On clicking on some element, image should be shown first, then
+     from top other element should be inserted into that image.
+  8. On clicking button, a tab should be opened with graph, calculator
+     and quiz questions(basicallly with some content).
+  9. On clicking the bottle which is half filled with color, in the
+     empty bottle same color should be filled.
+ 10. On clicking the other bottle which is half filled with different color, then in some x bottle amount of color should increase.
+ 11. On clicking the IRcell image, at some place other image should
+     appear.
+ 12. On clicking the x bottle syringe should appear and it should extract the solution from the bottle,then the color in the bottle should
+     go down slowly and the color in the syringe should go up slowly.
+ 13. On clicking the x element color inside element should increase from bottom slowly and inside the inserting element color level
+     should go down slowly.
+ 14. On clicking the button the two things should happen firstone :
+     sirenge element should move from left to right slowly and stop at
+     certain point and then after a sec,bubbles should be shown with
+     animation at where the element is stopped.  second one : And when
+     the syringe element is moving from left, a square box with arrow
+     on the top of the box, should be shown somewhere and the arrow
+     should hit the box with animation with non-stop.
+ 15. On clicking the button a image should appear and inside the image
+     atoms should move like bubbles and from top of the image atoms
+     should fall with nonstop like rain droplets.
+ 16. On clicking the button two things should happen First : a image
+     should appear and inside the image, an element should move
+     continuously from top to bottom. Second :A square box with arrow
+     on the top should be shown somewhere in the UI, and that arrow
+     should hit the box continuously.
+ 17. On clicking the button, a image shold appear and inside that
+     image from one point, three lines of certain length should be
+     formed slowly with an animation.
+ 18. On clicking the bottle, which is half filled with color, a
+     element(syringe) should appear and it should extract the color
+     slowly. Next step it should go down slowly and stop near a pipe
+     and then color in the pipe should flow like a water and stop at
+     certain point.
+ 19. On clicking the bottle, it should shake and color in the bottle should change.
+ 20. On page load, an element should move clockwise and anticlockwise continuously. 
+ 21. On clicking the button, table should be shown with one row and
+     three columns and each column should be filled with button.
+ 22. On clicking the button, waves should move from left to right continuously.
+ 23. On clicking the button, image sholud be inserted into an other
+     element and waves should move from top to right continuosly and
+     arrow with circle sholud be shown and that arrow should move
+     continuously.
+ 24. On clicking the button a graph should be drawn.
+
+*** For Physical Science Lab : 
+- Total No of Experiments - 10
+- No of experiments to be converted - 3
+- Common things related to UI : slider for setting the
+  temperature,Drop down list, buttons, Table image for placing the
+  experiment image on it,graph, A table to list out the content, microscopic view.
+- Common things related to Animations -> 
+  1. On sliding the slider, sliding  values should be displayed somewhere. 
+  2. On clicking the button, simulation should be paused.
+  3. On clicking the button, Simulation should be stopped.
+  4. On clicking the button, an element should be dropped from top
+     to bottom slowly, after a while another element should be
+     dropped from top to bottom again from botton to top.
+  5. On clicking the button, a solution must be poured by glass, from top onto some other element.
+  6. On clicking the button, sloution should be poured from tap, and
+     the container should be filled with color slowly.
+  7. On clicking the button, simulation should be restarted.  
+  8. On clicking button, row should be dynamically generated in a table.
+   
+*** For Computer Organization Lab :
+-  Total No of experiments - 10( 3exps are in flash and 7exps are in java)
+-  No of experiments to be converted - 7 exps to be converted( all the 7 exps are in java)
+- Common things related to UI : UI is same for all the experiments
+   simulation in this lab.  Simulation UI has -> Drop-down list, Radio
+   Buttons, Navigation Bars, Check Box, Tables, Menu Bar, Empty Box.
+- Common things related to Animations -> Animations are same for all
+  the experiments simulations in this lab.Below are the animations:
+   1. Select the Parameters from the drop-down list.                                                                                                                    
+   2. Select the radio button from Replacement policy, Mapping, Write
+      Policy then set Zize from drop-down list and click on submit
+      button.
+   3. Select Manual Address from then select addressvtype from radio
+      buttons, On clicking Map Cache and Memory with explanation in a
+      seperate box.
+   4. and also it displays the Given Address in another box .                         
+
+*** For Pattern Recognition Lab :
+-  Total No of experiments - 7 (all are in java)
+-  No of experiments to be converted - 7 exps to be converted( all the 7 exps are in java)
+-  Common things related to UI : 
+   Simulation UI has -> Buttons, Drop-down Lists, Table.
+-  Common things related to Animations -> 
+   1. Select the Dataset and click on Load button, then clock on Plot . 
+   2. If we select an image, we can find the difference in the graph.
+   3. To calculate click on estimate, to generate random values on the graph click on Generate button.
+   4. Click on Resize button to change the Graph Axis.
+  
+*** For Artificial Neural Networks Lab :
+- Total No of Experiments - 10
+- No of experiments to be converted - 3
+- Common things related to UI : There are no common things in this lab.
+- Common things related to Animations -> Buttons, Tables.
+- Animations from all the three experiments :
+  *First Exp :*
+  1. On mouse hover on one unit it will connect to other units in the same pool and the other pool too.                                                                                                                                                                                                                  
+  2. The units model is displayed accordingly in a small table.
+  *Second Exp :*
+  1. Click on CLICK button, it will display some blocks in the table. On mouse hover ,we can see the blocks are Zoomed in. 
+  2. On click on Click here for Clamping Descriptors, it will display the descriptors in table.     
+  3. Select the Descriptors to check the Test with network after clamping.
+  *Fifth Exp :*
+  1. Choose two states and click on submit button, then it will display equations in a table.                       
+  2. Click on Done button, it will show triangle diagram with threshold energy.
+  
+*** For Hydraulics & Fluid Mechanics Lab :
+-  Total No of Experiments - 10 (with two simulations in each experiment(one with flash and one with java3D)
+-  No of experiments to be converted - 10   
+-  Common things related to UI : Common: Start button in most of the
+   experiments. Different shaped containers filled with water, Water
+   flow from one place to other as blue color. other shapes or elemet
+   water tap shaep, meter, vessel etc
+-  Common things related to Animations : 
+ 
+
+*** For Basic Engineering & Strength Of Materials Lab :
+- Total No of Experiments - 10 (with two simulations in each experiment(one with flash and one with java3D)
+- No of experiments to be converted - 10
+- Common things related to UI :
+- Common things related to Animations ->
+  There are no common animations in this lab. Below are the animations from all the flash experiments.
+  1) On click of start button,hammer is getting released which strikes
+     the specimen to fracture at the notch. 
+     Animation: moving hammere as well as notch after getting
+     cut with hammer.
+  2) On start button click: Spring is geeting compress with weighted
+     item.  Animataion is "size is getting reduced for spring".
+
+*** For Computer Graphics Lab :
+- Total No of Experiments - 11 (all the experiments are in java)
+- No of experiments to be converted - 11
+- Common things related to UI : All the experimet's UI design is
+  similar with following elements.  All the experiments require graph
+  with colorful lines and other images (like rabbit) with pixels,
+  input form which includes- Text button, radio button, submit
+  buttons, increment list, tables etc.
+- Common things related to Animations -> 
+
+*** For Electromagnetic Theory Lab : (unable to view the experiments in this lab, due to some error)
+- Total No of Experiments - 10 (all are in java3D)
+- No of experiments to be converted - 10
+- Common things related to UI : 
+- Common things related to Animations -> -
+
+
+
+
+
+   
+        
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+

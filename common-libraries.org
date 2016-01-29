@@ -5,9 +5,9 @@
 
 - Total Number of Labs  : 20
 - Total Number of Experiments :  192
-- Total Number of Labs, need not to be converted : 7
-- Total Number of Experiments, need not to be converted :  8
-- Total Number of labs to be converted  to javascript :   10
+- Total Number of Labs, need not to be converted : 8
+- Total Number of labs to be converted  to javascript :   11
+- Total Number of Experiments to be converted to javascript : 93
 
 ** How the common Libraries across the labs are Identified ? : 
 

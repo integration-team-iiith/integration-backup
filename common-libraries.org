@@ -11,7 +11,7 @@
 
 ** How the common Libraries across the labs are Identified ? : 
 
-Identified the common libraries, across the labs, based on two scenarios, 
+ Common libraries are identified, across the labs, based on two scenarios: 
 i.e; Common things related to UI and Common things related to animations of the Experiment Simulations.
 
 ** Common things identified, which are related to UI and Animations of the Experiment Simulations(lab wise) :

@@ -49,7 +49,7 @@ Institute Integration team )*
 
    e) Institute QA should interact with Institute Integration team for
    resolution of defects. Step 5a-5d should continue till hosting
-   criteria is met as defined in [[http://files.vlabs.ac.in/vlead-docs/integration-process.html][interation process]]
+   criteria is met as defined in [[http://files.vlabs.ac.in/vlead-docs/integration-process.html][integration process]]
 
 *6) After meeting hosting criteria, hosting request to production*
    *should be made by integration team. The request should include*

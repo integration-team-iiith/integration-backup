@@ -1,0 +1,59 @@
+#+Title: Proposed - Centralized QA Process - Alternate
+#+Author: Lalit
+
+*1) The Lab should be identified for Testing based on*
+
+   a) Usage/priority, new changes/enhanced features - Existing Labs
+
+   b) New labs should go through QA process
+
+*2) Domain Specific/Functional Testing should be done by ???*
+
+   1) Test cases with test results covering the scenarios of the
+      experiments of a lab should be produced.
+   2) Successful Test results should be shared along with request for
+      system testing
+   3) End users involvement for Domain Specific/Functional testing ??
+
+*3) System testing request should be sent by Institute Integration*
+   *Engineer*
+
+   a) Verify code artifacts in Github
+
+   b) Deployment in Dev environment
+
+   c) Smoke Testing (Checking for broken links, screen refresh and
+   initial high level testing)
+
+   d) Resolution of defects logged in Github. Logged defects should be
+   resolved by Lab Owner.
+
+   e) Step 3a-3d should continue till Smoke testing is successful
+
+   f) System testing request should be sent to Centralized QA team by
+   Institute Integration Engineer
+
+*4) System Testing should be done by Centralized QA team*
+
+   a) Centralized QA team should use QA environment for test case
+   covering the scenarios of the experiments of a lab.
+
+   b) Centralized QA team should report test results against the test
+   cases documented
+
+   c) Defects identified should be logged in Github as issues
+
+   d) Defect should have details of the failed testcase id, severity
+   level, steps to reproduce the defect and screenshots(if applicable)
+   as defined in [[http://files.vlabs.ac.in/vlead-docs/integration-process.html][integration process]]
+
+   e) Centralized QA should interact with Institute Integration team
+   for resolution of defects. Step 5a-5d should continue till hosting
+   criteria is met as defined in [[http://files.vlabs.ac.in/vlead-docs/integration-process.html][interation process]]
+
+*6) After meeting hosting criteria, hosting request to production*
+   *should be made by integration team. The request should include*
+
+   a) Release notes
+
+   b) Approval stamp from Centralized QA team

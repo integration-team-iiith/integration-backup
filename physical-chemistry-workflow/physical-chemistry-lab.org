@@ -15,7 +15,7 @@
 5. Two buttons(start and evaluate) and one blank window to display graph.
 
 Please see simulation's screenshot for more clarifications:
-[[./1.Screenshot.png][Simulation's Screenshot]]
+[[./img/1.Screenshot.png][Simulation's Screenshot]]
 
 ** Procedure
 
@@ -58,7 +58,7 @@ Please see simulation's screenshot for more clarifications:
     graph.
 
 Please see simulation's screenshot for more clarifications:
-[[./2.Screenshot.png][Simulation's Screenshot]]
+[[./img/2.Screenshot.png][Simulation's Screenshot]]
 
 ** Procedure
 
@@ -92,7 +92,6 @@ Please see simulation's screenshot for more clarifications:
 9. On clicking evaluate button, a tab should be opened with graph,
    calculator and quiz questions(basicallly with some content).
 
-
 * Instrumentation and working principles principles of mass spectroscopy
 
 ** Simulation UI elements
@@ -102,7 +101,7 @@ Please see simulation's screenshot for more clarifications:
 2. Two square boxes and other images related to experiment.
 
 Please see simulation's screenshot for more clarifications:
-   [[./3.Screenshot.png][Simulation's Screenshot]]
+   [[./img/3.Screenshot.png][Simulation's Screenshot]]
 
 ** Procedure
 
@@ -131,13 +130,12 @@ Please see simulation's screenshot for more clarifications:
 5. On clicking button, a tab should be opened with graph, calculator
    and quiz questions(basicallly with some content).
 
-
 * Determination of molar mass of simple compounds using mass spectroscopy
 
 ** Simulation UI elements
 
 Please see simulation's screenshot for clarifications:
-[[./4.Screenshot.png][Simulation's Screenshot]]
+[[./img/4.Screenshot.png][Simulation's Screenshot]]
 
 ** Procedure
 
@@ -175,7 +173,7 @@ Please see simulation's screenshot for clarifications:
    Experiment.
 
 Please see simulation's screenshot for more clarifications:
-[[./5.Screenshot.png][Simulation's Screenshot]]
+[[./img/5.Screenshot.png][Simulation's Screenshot]]
 
 ** Procedure
 
@@ -200,7 +198,7 @@ Please see simulation's screenshot for more clarifications:
 ** Simulation UI elements
 
 Please see simulation's screenshot for more clarifications:
-[[./6.Screenshot.png][Simulation's Screenshot]]
+[[./img/6.Screenshot.png][Simulation's Screenshot]]
 
 ** Procedure
 
